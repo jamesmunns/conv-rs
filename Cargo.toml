@@ -1,0 +1,10 @@
+[package]
+name = "conv-lib"
+version = "0.1.0"
+authors = ["James Munns <james.munns@gmail.com>"]
+
+[dev-dependencies]
+time = "0.1"
+
+[features]
+unstable = []
